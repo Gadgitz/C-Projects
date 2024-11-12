@@ -1,0 +1,9 @@
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\bin\Debug\AreaAndParimeter.exe.config
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\bin\Debug\AreaAndParimeter.exe
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\bin\Debug\AreaAndParimeter.pdb
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndParimeter.AAP.resources
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndParimeter.Properties.Resources.resources
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndParimeter.exe
+C:\Users\aoc25\Desktop\School\C#\C# Week 4\AreaAndParimeter\AreaAndParimeter\obj\Debug\AreaAndParimeter.pdb

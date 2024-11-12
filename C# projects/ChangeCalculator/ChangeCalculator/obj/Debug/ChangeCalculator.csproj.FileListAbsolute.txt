@@ -1,0 +1,19 @@
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Form1.resources
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.Cache
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\C# 2015\ExtraExercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.AssemblyReference.cache
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Form1.resources
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.cache
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\Users\datge\Downloads\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb

@@ -1,0 +1,9 @@
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\C# 2015\ExtraExercises\Chapter 06\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.frmSimpleCalculator.resources
